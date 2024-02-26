@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel de los Santos</h1>
 <h3 align="center">i love learn things!</h3>
+<img align="right" alt="coding" with="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 - 🔭 I’m currently working on **reach my first job.**
 
